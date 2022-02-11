@@ -1,6 +1,9 @@
 # image_resize
 Resize the image using python.
 
+<img width="1107" alt="Screen Shot 2022-02-11 at 22 10 46" src="https://user-images.githubusercontent.com/5554576/153597715-f0676ce2-a8f4-44a2-abd7-345b0accb582.png">
+
+
 ### Required Libraries
 ```
 pip install Pillow
